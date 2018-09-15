@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pinyinjs/dict/pinyin_dict_firstletter.js</file>
+        <file>pinyinjs/dict/pinyin_dict_notone.js</file>
+        <file>pinyinjs/dict/pinyin_dict_polyphone.js</file>
+        <file>pinyinjs/dict/pinyin_dict_withtone.js</file>
+        <file>pinyinjs/pinyinUtil.js</file>
+    </qresource>
+</RCC>
